@@ -17,17 +17,18 @@ This project is a complete end-to-end Machine Learning pipeline built using the 
 
 ---
 
-🔧 Technologies Used
--Python 🐍
--Pandas & NumPy
--Matplotlib & Seaborn
--Scikit-learn
--XGBoost
--Jupyter Notebook
+## 🔧 Technologies Used
+
+- Python 🐍  
+- Pandas & NumPy  
+- Matplotlib & Seaborn  
+- Scikit-learn  
+- XGBoost  
+- Jupyter Notebook 
 
 ---
 
-🚀 Project Highlights
+## 🚀 Project Highlights
 ✔️ Data Cleaning & Imputation
 ✔️ Exploratory Data Analysis (EDA)
 ✔️ Feature Engineering (IsAlone, Title, etc.)
@@ -40,13 +41,14 @@ This project is a complete end-to-end Machine Learning pipeline built using the 
 
 ---
 
-📈 Models Used
--Logistic Regression
--Support Vector Machine (SVC)
--K-Nearest Neighbors (KNN)
--Random Forest
--Gradient Boosting
--XGBoost
--Voting Classifier (Ensemble)
+## 📈 Models Used
+
+- Logistic Regression
+- Support Vector Machine (SVC)
+- K-Nearest Neighbors (KNN)
+- Random Forest
+- Gradient Boosting
+- XGBoost
+- Voting Classifier (Ensemble)
 
 
