@@ -2,8 +2,6 @@
 
 This project is a complete end-to-end Machine Learning pipeline built using the famous Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic). The goal is to predict which passengers survived the Titanic shipwreck based on features like age, gender, ticket class, etc.
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
-
 ---
 
 ## 📂 Project Structure
